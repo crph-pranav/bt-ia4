@@ -132,8 +132,3 @@ A multi-layered defense combining **BFT consensus**, **stake-based identity**, a
 Continuous monitoring, periodic audits, and economic incentives are critical to maintaining trust in decentralized financial systems.
 
 ---
-
-**Document Version:** 2.0  
-**Author:** Blockchain Security Team  
-**Date:** November 2025  
-**Classification:** Public
